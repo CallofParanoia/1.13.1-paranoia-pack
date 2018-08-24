@@ -1,5 +1,5 @@
-# 1.13.1 paranoia pack
-
+# Paranoia Pack
+## Minecraft 1.13.1 Datapack
 Downloads can be found under [Releases](https://github.com/CallofParanoia/1.13.1-paranoia-pack/releases)
 
 Includes the following:
