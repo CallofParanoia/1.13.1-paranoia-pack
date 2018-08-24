@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:saddle"
+        }
+    ],
+    "result": {
+        "item": "minecraft:leather",
+        "count": 5
+		"item": "minecraft:leather",
+        "count": 2
+		"item": "minecraft:leather",
+        "count": 1
+    }
+}
